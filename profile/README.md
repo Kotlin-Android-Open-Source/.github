@@ -27,8 +27,7 @@ Sharing Kotlin Android, latest technology (Kotlin Coroutines Flow, RxJava, RxKot
 </code>
 
 <p align="center">
-   <code>Visitor count</code>
-   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKotlin-Android-Open-Source&count_bg=%2379C83D&title_bg=%23555555&icon=android.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com" />
+   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKotlin-Android-Open-Source&count_bg=%2379C83D&title_bg=%23555555&icon=android.svg&icon_color=%23E7E7E7&title=Visitor%20count&edge_flat=false)](https://hits.seeyoufarm.com" />
 </p>
 
 - **ViewBindingDelegate** (https://jitpack.io/#hoc081098/ViewBindingDelegate, https://github.com/hoc081098/ViewBindingDelegate) - Simple one-liner `ViewBinding` in `Fragments` and `Activities` with Kotlin Property Delegates.
