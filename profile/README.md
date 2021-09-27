@@ -62,33 +62,5 @@ Sharing Kotlin Android, latest technology (Kotlin Coroutines Flow, RxJava, RxKot
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kotlin-Android-Open-Source&repo=MVI-Coroutines-Flow&theme=vue)](https://github.com/Kotlin-Android-Open-Source/MVI-Coroutines-Flow)
 -->
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/hoc081098/hoc081098/output/github-contribution-grid-snake.svg)
-
-_generated with [Platane/snk](https://github.com/Platane/snk)_
-
-### Open Source Projects
-
-#### More repositories at [Kotlin-Android-Open-Source](https://github.com/Kotlin-Android-Open-Source)
-
-#### More repositories at [Flutter-Dart-Open-Source](https://github.com/Flutter-Dart-Open-Source)
-
-<a href="https://github.com/hoc081098/WeatherApp_MVI_sample">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hoc081098&repo=WeatherApp_MVI_sample&bg_color=ffffff" height="148" width="399"/>
-</a>
-
-<a href="https://github.com/Kotlin-Android-Open-Source/MVI-Coroutines-Flow">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Kotlin-Android-Open-Source&repo=MVI-Coroutines-Flow&bg_color=ffffff" height="148" width="399"/>
-</a>
-
-<br>
-
-<a href="https://github.com/hoc081098/Movie-Ticket-Booking">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hoc081098&repo=Movie-Ticket-Booking&bg_color=ffffff" height="148" width="399"/>
-</a>
-
-<a href="https://github.com/hoc081098/rx_shared_preferences">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=hoc081098&repo=rx_shared_preferences&bg_color=ffffff" height="148" width="399"/>
-</a>
-
 
 
