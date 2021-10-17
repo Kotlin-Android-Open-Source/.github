@@ -13,7 +13,7 @@ Sharing Kotlin Android, latest technology (Kotlin Coroutines Flow, RxJava, RxKot
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hoc081098)
 [![StackOverflow](https://img.shields.io/badge/stackoverflow-%23F48024.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/11191424/hoc081098)
 
-- [My CV](https://docs.google.com/viewer?url=https://github.com/hoc081098/hoc081098/raw/master/Nguyen-Thai-Hoc-TopCV.vn-190721.155718.pdf).
+- [My CV](https://drive.google.com/file/d/1DXCgBNq8bQTqRDhwSTfr4wAgGDNuiKw4/view?usp=sharing).
 - [Medium](https://hoc081098.medium.com/).
 - [Facebook](https://www.facebook.com/kotlinandroid081098).
 
