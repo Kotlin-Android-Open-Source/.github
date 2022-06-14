@@ -17,6 +17,11 @@ Sharing Kotlin Android, latest technology (Kotlin Coroutines Flow, RxJava, RxKot
 - [Medium](https://hoc081098.medium.com/).
 - [Facebook](https://www.facebook.com/kotlinandroid081098).
 
+### Buy me a coffee
+Liked some of my work? Buy me a coffee (or more likely a beer)
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/hoc081098)
+
 ### Hello visitors
 
 <p align="center">
