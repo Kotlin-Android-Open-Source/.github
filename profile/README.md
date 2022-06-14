@@ -6,6 +6,11 @@ Sharing Kotlin Android, latest technology (Kotlin Coroutines Flow, RxJava, RxKot
 [![Kotlin](https://img.shields.io/badge/kotlin-%23FF5722.svg?&style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/Kotlin-Android-Open-Source)
 [![Android](https://img.shields.io/badge/android-teal.svg?&style=for-the-badge&logo=android&logoColor=white")](https://github.com/Kotlin-Android-Open-Source)
 
+### Buy me a coffee
+Liked some of my work? Buy me a coffee (or more likely a beer)
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/hoc081098)
+
 ### Contact me
                   
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hoc081098)
@@ -16,11 +21,6 @@ Sharing Kotlin Android, latest technology (Kotlin Coroutines Flow, RxJava, RxKot
 - [My CV](https://drive.google.com/file/d/1DXCgBNq8bQTqRDhwSTfr4wAgGDNuiKw4/view?usp=sharing).
 - [Medium](https://hoc081098.medium.com/).
 - [Facebook](https://www.facebook.com/kotlinandroid081098).
-
-### Buy me a coffee
-Liked some of my work? Buy me a coffee (or more likely a beer)
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/hoc081098)
 
 ### Hello visitors
 
